@@ -5,4 +5,6 @@ Credit to https://github.com/tensorflow/tensorflow/blob/r1.13/tensorflow/contrib
 Instead of gathering and classifying numbers from the [MNIST dataset](http://yann.lecun.com/exdb/mnist/), this program generates
 handwritten numbers by discriminating our output after every generation. As training progresses, the generator gets better at generating
 fake handwritten digits until the discriminator can no longer spot a fake image.
-<div style="text-align:center"><img src="dcgan.gif" /></div>
+<p align="center">
+  <dcgan.gif />
+</p>
