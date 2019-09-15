@@ -2,8 +2,7 @@
 Generate handwritten digits using a deep convolutional generative adversarial network (DCGAN) all while being GPU accelerated.
 
 Instead of gathering and classifying numbers from the [MNIST dataset](http://yann.lecun.com/exdb/mnist/), this program generates
-handwritten numbers by discriminating our output after every generation. As training progresses, the generator gets better at generating
-handwritten digits until the discriminator can no longer spot a fake image.
+convincing handwritten MNIST numbers. As training progresses, the generator gets better at generating handwritten digits until the discriminator can no longer spot a fake image.
 <p align="center"> 
 <img src="dcgan.gif">
 </p>
