@@ -12,6 +12,7 @@ fake handwritten digits until the discriminator can no longer spot a fake image.
 The code is written in tf.keras with eager execution enabled. Tensorflow-gpu allows us to GPU accelerate our program and reduce the
 amount of time per epoch. CPU at ~95% = 200 seconds/epoch while a 1080ti GPU at 20% = 8 second/epoch... Thank you cuda cores.
 
+
 Environment: PyCharm
 
 Language: Python 3.7.3
