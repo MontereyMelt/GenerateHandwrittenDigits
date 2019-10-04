@@ -16,4 +16,4 @@ Language: Python 3.7.3
 
 Packages needed: Tensorflow-gpu 1.14 | imageio 2.5.0 | matplotlib.pyplot 3.1.1 | cudatoolkit 10.0.130 | cudnn 7.6.0
 
-Hardware needed: Nvidia GPU
+Hardware needed: GPU
